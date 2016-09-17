@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Status: Accepted",
+		"color": "209712"
+	},
+	{
+		"name": "Status: Planned",
+		"color": "bfff7a"
+	},
+	{
+		"name": "Status: Current Iteration",
+		"color": "faed49"
+	},
+	{
+		"name": "Status: In Progress",
+		"color": "fbca04"
+	},
+	{
+		"name": "Status: Review/QA",
+		"color": "4F29E5"
+	},
+	{
+		"name": "Status: Invalid",
+		"color": "D2DAE1"
+	},
+	{
+		"name": "Status: Wontfix",
+		"color": "D2DAE1"
+	},
+	{
+		"name": "Status: Duplicate",
+		"color": "D2DAE1"
+	},
+	{
+		"name": "Status: On Hold",
+		"color": "D2DAE1"
+	}
+]

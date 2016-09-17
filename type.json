@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Type: Bug",
+		"color": "e11d21"
+	},
+	{
+		"name": "Type: Refactoring",
+		"color": "131C33"
+	},
+	{
+		"name": "Type: New Feature",
+		"color": "009800"
+	},
+	{
+		"name": "Type: Enhancement",
+		"color": "a62cff"
+	},
+	{
+		"name": "Type: Question",
+		"color": "cc317c"
+	}
+]

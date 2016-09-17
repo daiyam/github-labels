@@ -1,0 +1,78 @@
+[
+	{
+		"name": "Iteration: ",
+		"color": "9FC68C"
+	},
+	{
+		"name": "Priority: Critical",
+		"color": "8B1819"
+	},
+	{
+		"name": "Priority: High",
+		"color": "e8974a"
+	},
+	{
+		"name": "Priority: Medium",
+		"color": "66eb5f"
+	},
+	{
+		"name": "Priority: Low",
+		"color": "d1e9f9"
+	},
+	{
+		"name": "Status: Accepted",
+		"color": "209712"
+	},
+	{
+		"name": "Status: Planned",
+		"color": "bfff7a"
+	},
+	{
+		"name": "Status: Current Iteration",
+		"color": "faed49"
+	},
+	{
+		"name": "Status: In Progress",
+		"color": "fbca04"
+	},
+	{
+		"name": "Status: Review/QA",
+		"color": "4F29E5"
+	},
+	{
+		"name": "Status: Invalid",
+		"color": "D2DAE1"
+	},
+	{
+		"name": "Status: Wontfix",
+		"color": "D2DAE1"
+	},
+	{
+		"name": "Status: Duplicate",
+		"color": "D2DAE1"
+	},
+	{
+		"name": "Status: On Hold",
+		"color": "D2DAE1"
+	},
+	{
+		"name": "Type: Bug",
+		"color": "e11d21"
+	},
+	{
+		"name": "Type: Refactoring",
+		"color": "131C33"
+	},
+	{
+		"name": "Type: New Feature",
+		"color": "009800"
+	},
+	{
+		"name": "Type: Enhancement",
+		"color": "a62cff"
+	},
+	{
+		"name": "Type: Question",
+		"color": "cc317c"
+	}
+]
